@@ -42,7 +42,7 @@
                             <img class="img-responsive" src="images/team/03.jpg" alt="">
                         </div>
                         <div class="team-info">
-                            <h3>Jagdish A. D.</h3>
+                            <h3>Shaikh Chand</h3>
                             <span>BE [Computer]</span><br>
 							<span>Hardware Expert</span>
                         </div>
